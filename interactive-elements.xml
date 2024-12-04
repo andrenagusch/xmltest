@@ -6,7 +6,7 @@
       <trigger>Interaktives Element 1</trigger>
       <content>
         <date>2024-12-03</date>
-        <headline>Headline 1 - Updated by Github</headline>
+        <headline>Headline 1 - Updated by Github!!!</headline>
         <teaser>Kleiner Anlauftext für das erste Element.</teaser>
       </content>
     </item>
@@ -48,6 +48,14 @@
         <date>2024-12-06</date>
         <headline>Headline B</headline>
         <teaser>Kleiner Anlauftext für das erste Element von Gruppe 3.</teaser>
+      </content>
+    </item>
+    <item>
+      <trigger>Hallo Hendrik</trigger>
+      <content>
+        <date>2024-12-04</date>
+        <headline>Headline 2</headline>
+        <teaser>Kleiner Anlauftext für das zweite Element.</teaser>
       </content>
     </item>
   </element>
