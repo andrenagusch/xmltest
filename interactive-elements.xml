@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactiveElements>
+  <!-- Ein einzelnes interaktives Element -->
+  <element id="1">
+    <item>
+      <trigger>Interaktives Element 1</trigger>
+      <content>
+        <date>2024-12-03</date>
+        <headline>Headline 1</headline>
+        <teaser>Kleiner Anlauftext für das erste Element.</teaser>
+      </content>
+    </item>
+    <item>
+      <trigger>Interaktives Element 2</trigger>
+      <content>
+        <date>2024-12-04</date>
+        <headline>Headline 2</headline>
+        <teaser>Kleiner Anlauftext für das zweite Element.</teaser>
+      </content>
+    </item>
+    <item>
+      <trigger>Interaktives Element 3</trigger>
+      <content>
+        <date>2024-12-05</date>
+        <headline>Headline 3</headline>
+        <teaser>Kleiner Anlauftext für das dritte Element.</teaser>
+      </content>
+    </item>
+  </element>
+
+  <!-- Zweites Element -->
+  <element id="2">
+    <item>
+      <trigger>Interaktives Element A</trigger>
+      <content>
+        <date>2024-12-06</date>
+        <headline>Headline A</headline>
+        <teaser>Kleiner Anlauftext für das erste Element von Gruppe 2.</teaser>
+      </content>
+    </item>
+  </element>
+
+  <!-- Drittes Element -->
+  <element id="3">
+    <item>
+      <trigger>Interaktives Element B</trigger>
+      <content>
+        <date>2024-12-06</date>
+        <headline>Headline B</headline>
+        <teaser>Kleiner Anlauftext für das erste Element von Gruppe 3.</teaser>
+      </content>
+    </item>
+  </element>
+</interactiveElements>
